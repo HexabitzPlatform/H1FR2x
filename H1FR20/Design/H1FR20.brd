@@ -1748,7 +1748,7 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="-15.71625" y="18.7325" size="1.27" layer="27" rot="R270"/>
 </element>
 <element name="P1" library="hexabitz_connectors" library_urn="urn:adsk.eagle:library:20064578" package="HEXABIT_17.32_NO_P6_P7_P12" package3d_urn="urn:adsk.eagle:package:20064634/2" value="HEXABIT_17.32_NO_P6_P7_P12" x="0" y="15.08125" smashed="yes"/>
-<element name="U2" library="HEXABITZ_ICs" library_urn="urn:adsk.eagle:library:20064554" package="LORA127X-C1" package3d_urn="urn:adsk.eagle:package:42421660/4" value="LORA127X-C1-915" x="0.15875" y="17.62125" smashed="yes" rot="R180">
+<element name="U2" library="HEXABITZ_ICs" library_urn="urn:adsk.eagle:library:20064554" package="LORA127X-C1" package3d_urn="urn:adsk.eagle:package:42421660/4" value="Lora1276-C1-915" x="0.15875" y="17.62125" smashed="yes" rot="R180">
 <attribute name="AVAILABILITY" value="Not in stock" x="0.15875" y="17.62125" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="CHECK_PRICES" value="https://www.snapeda.com/parts/ESP8266-12E/ESP-12E/AI-Thinker/view-part/?ref=eda" x="0.15875" y="17.62125" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="DESCRIPTION" value=" This WiFi module has a 32-bit MCU micro and clock speeds supporting 80 MHz or 160 MHz. Supports the RTOS and integrated Wi-Fi MAC/BB/RF/PA/LNA, and has an on-board antenna. " x="0.15875" y="17.62125" size="1.778" layer="27" rot="R180" display="off"/>
